@@ -1,0 +1,2 @@
+# BingHuiX.github.io
+welcome
